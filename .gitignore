@@ -1,0 +1,7 @@
+finmind.db
+finmind.db-journal
+finmind.db-wal
+finmind.db-shm
+.env
+__pycache__/
+.venv/
